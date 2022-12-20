@@ -1,0 +1,13 @@
+name: NYCgentrification
+title: NYCgentrification
+username:
+account: aranansari
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6373199
+bundleId: 5945208
+url: https://aranansari.shinyapps.io/nycgentrification/
+when: 1653514265.3783
+lastSyncTime: 1653514265.37832
+asMultiple: FALSE
+asStatic: FALSE

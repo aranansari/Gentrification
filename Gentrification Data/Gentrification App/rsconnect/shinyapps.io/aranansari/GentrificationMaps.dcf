@@ -1,0 +1,12 @@
+name: GentrificationMaps
+title: GentrificationMaps
+username:
+account: aranansari
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 907877
+bundleId: 2062113
+url: https://aranansari.shinyapps.io/GentrificationMaps/
+when: 1557089922.2688
+asMultiple: FALSE
+asStatic: FALSE
